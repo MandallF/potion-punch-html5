@@ -2,6 +2,9 @@
 
 Bu proje, basit bir renk karıştırma oyunudur. HTML5 Canvas kullanılarak JavaScript ile geliştirilmiştir. Oyunun amacı, müşterinin istediği ikili rengi doğru şişeleri seçerek üretmek ve hazırlamaktır.
 
+## Anlatım Videosu = https://youtu.be/-zKSLo1X8x8
+
+
 ## 🎮 Oyun Özellikleri
 
 - 3 temel renk (kırmızı, mavi, sarı)
