@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b0439a70-b498-4a93-834a-9b562f374961)# Potion Punch (HTML5 Canvas Game)
+# Potion Punch (HTML5 Canvas Game)
 
 Bu proje, basit bir renk karıştırma oyunudur. HTML5 Canvas kullanılarak JavaScript ile geliştirilmiştir. Oyunun amacı, müşterinin istediği ikili rengi doğru şişeleri seçerek üretmek ve hazırlamaktır.
 
